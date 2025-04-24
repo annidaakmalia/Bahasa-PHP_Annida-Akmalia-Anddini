@@ -1,0 +1,15 @@
+
+Result Size: 488 x 797
+<!DOCTYPE html>
+<html>
+<body>
+​
+<?php
+$x = "John";
+echo "Hello $x";
+?>
+​
+</body>
+</html>
+​
+Hello John
